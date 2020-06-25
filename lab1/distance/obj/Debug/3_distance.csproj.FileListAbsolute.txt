@@ -1,0 +1,7 @@
+D:\C#\1\lab1\distance\bin\Debug\distance.exe.config
+D:\C#\1\lab1\distance\bin\Debug\distance.exe
+D:\C#\1\lab1\distance\bin\Debug\distance.pdb
+D:\C#\1\lab1\distance\obj\Debug\3_distance.csproj.CoreCompileInputs.cache
+D:\C#\1\lab1\distance\obj\Debug\distance.exe
+D:\C#\1\lab1\distance\obj\Debug\distance.pdb
+D:\C#\1\lab1\distance\obj\Debug\3_distance.csprojAssemblyReference.cache

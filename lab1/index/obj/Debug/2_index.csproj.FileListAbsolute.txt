@@ -1,0 +1,6 @@
+D:\C#\1\lab1\index\bin\Debug\index.exe.config
+D:\C#\1\lab1\index\bin\Debug\index.exe
+D:\C#\1\lab1\index\bin\Debug\index.pdb
+D:\C#\1\lab1\index\obj\Debug\2_index.csproj.CoreCompileInputs.cache
+D:\C#\1\lab1\index\obj\Debug\index.exe
+D:\C#\1\lab1\index\obj\Debug\index.pdb

@@ -1,0 +1,22 @@
+D:\C#\1\lab1\anketa\bin\Debug\anketa.exe.config
+D:\C#\1\lab1\anketa\bin\Debug\anketa.exe
+D:\C#\1\lab1\anketa\bin\Debug\anketa.pdb
+D:\C#\1\lab1\anketa\obj\Debug\1. anketa.csproj.CoreCompileInputs.cache
+D:\C#\1\lab1\anketa\obj\Debug\anketa.exe
+D:\C#\1\lab1\anketa\obj\Debug\anketa.pdb
+D:\C#\1\lab1\anketa\obj\Debug\1. anketa.csprojAssemblyReference.cache
+D:\C#\1\lab1\anketa\bin\Debug\Helper.exe
+D:\C#\1\lab1\anketa\bin\Debug\Helper.pdb
+D:\C#\1\lab1\anketa\bin\Debug\Helper.exe.config
+D:\C#\1\lab1\anketa\obj\Debug\1. anketa.csproj.CopyComplete
+D:\Csharp\1\lab1\anketa\bin\Debug\anketa.exe.config
+D:\Csharp\1\lab1\anketa\bin\Debug\anketa.exe
+D:\Csharp\1\lab1\anketa\bin\Debug\anketa.pdb
+D:\Csharp\1\lab1\anketa\bin\Debug\Helper.exe
+D:\Csharp\1\lab1\anketa\bin\Debug\Helper.pdb
+D:\Csharp\1\lab1\anketa\bin\Debug\Helper.exe.config
+D:\Csharp\1\lab1\anketa\obj\Debug\1. anketa.csprojAssemblyReference.cache
+D:\Csharp\1\lab1\anketa\obj\Debug\1. anketa.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab1\anketa\obj\Debug\1. anketa.csproj.CopyComplete
+D:\Csharp\1\lab1\anketa\obj\Debug\anketa.exe
+D:\Csharp\1\lab1\anketa\obj\Debug\anketa.pdb
