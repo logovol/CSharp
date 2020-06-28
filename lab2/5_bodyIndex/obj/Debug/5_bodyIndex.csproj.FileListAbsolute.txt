@@ -1,0 +1,7 @@
+D:\Csharp\1\lab2\5_bodyIndex\obj\Debug\5_bodyIndex.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab2\5_bodyIndex\bin\Debug\5_bodyIndex.exe.config
+D:\Csharp\1\lab2\5_bodyIndex\bin\Debug\5_bodyIndex.exe
+D:\Csharp\1\lab2\5_bodyIndex\bin\Debug\5_bodyIndex.pdb
+D:\Csharp\1\lab2\5_bodyIndex\obj\Debug\5_bodyIndex.exe
+D:\Csharp\1\lab2\5_bodyIndex\obj\Debug\5_bodyIndex.pdb
+D:\Csharp\1\lab2\5_bodyIndex\obj\Debug\5_bodyIndex.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Csharp\1\lab2\digitCount\obj\Debug\digitCounter.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab2\digitCount\bin\Debug\digitCount.exe.config
+D:\Csharp\1\lab2\digitCount\bin\Debug\digitCount.exe
+D:\Csharp\1\lab2\digitCount\bin\Debug\digitCount.pdb
+D:\Csharp\1\lab2\digitCount\obj\Debug\digitCount.exe
+D:\Csharp\1\lab2\digitCount\obj\Debug\digitCount.pdb
+D:\Csharp\1\lab2\digitCount\obj\Debug\digitCounter.csprojAssemblyReference.cache

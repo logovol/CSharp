@@ -1,0 +1,7 @@
+D:\Csharp\1\lab2\7_recursion\bin\Debug\7_recursion.exe.config
+D:\Csharp\1\lab2\7_recursion\bin\Debug\7_recursion.exe
+D:\Csharp\1\lab2\7_recursion\bin\Debug\7_recursion.pdb
+D:\Csharp\1\lab2\7_recursion\obj\Debug\7_recursion.csprojAssemblyReference.cache
+D:\Csharp\1\lab2\7_recursion\obj\Debug\7_recursion.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab2\7_recursion\obj\Debug\7_recursion.exe
+D:\Csharp\1\lab2\7_recursion\obj\Debug\7_recursion.pdb

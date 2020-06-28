@@ -1,0 +1,7 @@
+D:\Csharp\1\lab2\sumOddNumbers\obj\Debug\sumOddNumbers.csprojAssemblyReference.cache
+D:\Csharp\1\lab2\sumOddNumbers\obj\Debug\sumOddNumbers.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab2\sumOddNumbers\bin\Debug\sumOddNumbers.exe.config
+D:\Csharp\1\lab2\sumOddNumbers\bin\Debug\sumOddNumbers.exe
+D:\Csharp\1\lab2\sumOddNumbers\bin\Debug\sumOddNumbers.pdb
+D:\Csharp\1\lab2\sumOddNumbers\obj\Debug\sumOddNumbers.exe
+D:\Csharp\1\lab2\sumOddNumbers\obj\Debug\sumOddNumbers.pdb

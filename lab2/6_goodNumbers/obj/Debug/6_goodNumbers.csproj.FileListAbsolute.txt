@@ -1,0 +1,7 @@
+D:\Csharp\1\lab2\6_goodNumbers\bin\Debug\6_goodNumbers.exe.config
+D:\Csharp\1\lab2\6_goodNumbers\bin\Debug\6_goodNumbers.exe
+D:\Csharp\1\lab2\6_goodNumbers\bin\Debug\6_goodNumbers.pdb
+D:\Csharp\1\lab2\6_goodNumbers\obj\Debug\6_goodNumbers.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab2\6_goodNumbers\obj\Debug\6_goodNumbers.exe
+D:\Csharp\1\lab2\6_goodNumbers\obj\Debug\6_goodNumbers.pdb
+D:\Csharp\1\lab2\6_goodNumbers\obj\Debug\6_goodNumbers.csprojAssemblyReference.cache

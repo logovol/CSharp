@@ -1,0 +1,7 @@
+D:\Csharp\1\lab2\check\bin\Debug\check.exe.config
+D:\Csharp\1\lab2\check\bin\Debug\check.exe
+D:\Csharp\1\lab2\check\bin\Debug\check.pdb
+D:\Csharp\1\lab2\check\obj\Debug\check.csprojAssemblyReference.cache
+D:\Csharp\1\lab2\check\obj\Debug\check.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab2\check\obj\Debug\check.exe
+D:\Csharp\1\lab2\check\obj\Debug\check.pdb
