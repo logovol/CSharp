@@ -1,0 +1,14 @@
+D:\Csharp\1\Complex\Fraction\bin\Debug\Fraction.exe.config
+D:\Csharp\1\Complex\Fraction\bin\Debug\Fraction.exe
+D:\Csharp\1\Complex\Fraction\bin\Debug\Fraction.pdb
+D:\Csharp\1\Complex\Fraction\obj\Debug\Fraction.csprojAssemblyReference.cache
+D:\Csharp\1\Complex\Fraction\obj\Debug\Fraction.csproj.CoreCompileInputs.cache
+D:\Csharp\1\Complex\Fraction\obj\Debug\Fraction.exe
+D:\Csharp\1\Complex\Fraction\obj\Debug\Fraction.pdb
+D:\Csharp\1\lab3\Fraction\bin\Debug\Fraction.exe.config
+D:\Csharp\1\lab3\Fraction\bin\Debug\Fraction.exe
+D:\Csharp\1\lab3\Fraction\bin\Debug\Fraction.pdb
+D:\Csharp\1\lab3\Fraction\obj\Debug\fraction.csprojAssemblyReference.cache
+D:\Csharp\1\lab3\Fraction\obj\Debug\fraction.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab3\Fraction\obj\Debug\Fraction.exe
+D:\Csharp\1\lab3\Fraction\obj\Debug\Fraction.pdb
