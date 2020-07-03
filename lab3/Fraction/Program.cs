@@ -233,7 +233,7 @@ namespace fraction
                     denominator /= nod;
                 }
             }            
-            else if (numerator < 0 && denominator < 0)
+            if (numerator < 0 && denominator < 0)
             {
                 numerator = Math.Abs(numerator);
                 denominator = Math.Abs(denominator);
