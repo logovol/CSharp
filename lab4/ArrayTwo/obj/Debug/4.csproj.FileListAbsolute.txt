@@ -1,0 +1,6 @@
+D:\Csharp\1\lab4\ArrayTwo\bin\Debug\ArrayTwo.exe.config
+D:\Csharp\1\lab4\ArrayTwo\bin\Debug\ArrayTwo.exe
+D:\Csharp\1\lab4\ArrayTwo\bin\Debug\ArrayTwo.pdb
+D:\Csharp\1\lab4\ArrayTwo\obj\Debug\4.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab4\ArrayTwo\obj\Debug\ArrayTwo.exe
+D:\Csharp\1\lab4\ArrayTwo\obj\Debug\ArrayTwo.pdb

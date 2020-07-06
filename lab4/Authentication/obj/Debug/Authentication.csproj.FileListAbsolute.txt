@@ -1,0 +1,7 @@
+D:\Csharp\1\lab4\Authentication\bin\Debug\Authentication.exe.config
+D:\Csharp\1\lab4\Authentication\bin\Debug\Authentication.exe
+D:\Csharp\1\lab4\Authentication\bin\Debug\Authentication.pdb
+D:\Csharp\1\lab4\Authentication\obj\Debug\Authentication.csprojAssemblyReference.cache
+D:\Csharp\1\lab4\Authentication\obj\Debug\Authentication.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab4\Authentication\obj\Debug\Authentication.exe
+D:\Csharp\1\lab4\Authentication\obj\Debug\Authentication.pdb
