@@ -44,7 +44,7 @@ namespace Strings
         /// <returns>Результирующая строка</returns>
         static public string DeleteWordsEndedOnSymbol(string str, char c)
         {            
-            string st = Regex.Replace(str, $@"\b(([a-zA-Zа-яА-Я]+(-?[a-zA-Zа-яА-Я]+-?)*)*[{Regex.Escape(c.ToString())}][,:]*\s*)\b", "", RegexOptions.Compiled);
+            string st = Regex.Replace(str, $@"\b(([a-zA-Zа-яА-Я]+(-?[a-zA-Zа-яА-Я]+-?)*)*[{Regex.Escape(c.ToString())}][,:;]*\s*)\b", "", RegexOptions.Compiled);
             return st;
         }
 

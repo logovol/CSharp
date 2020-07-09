@@ -1,0 +1,7 @@
+D:\Csharp\CSharp.git\lab5\Believe\bin\Debug\Believe.exe.config
+D:\Csharp\CSharp.git\lab5\Believe\bin\Debug\Believe.exe
+D:\Csharp\CSharp.git\lab5\Believe\bin\Debug\Believe.pdb
+D:\Csharp\CSharp.git\lab5\Believe\obj\Debug\5_Believe.csprojAssemblyReference.cache
+D:\Csharp\CSharp.git\lab5\Believe\obj\Debug\5_Believe.csproj.CoreCompileInputs.cache
+D:\Csharp\CSharp.git\lab5\Believe\obj\Debug\Believe.exe
+D:\Csharp\CSharp.git\lab5\Believe\obj\Debug\Believe.pdb
