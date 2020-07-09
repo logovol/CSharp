@@ -1,0 +1,7 @@
+D:\Csharp\1\lab5\ExamTask\bin\Debug\ExamTask.exe.config
+D:\Csharp\1\lab5\ExamTask\bin\Debug\ExamTask.exe
+D:\Csharp\1\lab5\ExamTask\bin\Debug\ExamTask.pdb
+D:\Csharp\1\lab5\ExamTask\obj\Debug\4_ExamTask.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab5\ExamTask\obj\Debug\ExamTask.exe
+D:\Csharp\1\lab5\ExamTask\obj\Debug\ExamTask.pdb
+D:\Csharp\1\lab5\ExamTask\obj\Debug\4_ExamTask.csprojAssemblyReference.cache

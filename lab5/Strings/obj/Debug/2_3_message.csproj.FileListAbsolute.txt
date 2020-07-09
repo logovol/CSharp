@@ -1,0 +1,7 @@
+D:\Csharp\1\lab5\Strings\bin\Debug\Strings.exe.config
+D:\Csharp\1\lab5\Strings\bin\Debug\Strings.exe
+D:\Csharp\1\lab5\Strings\bin\Debug\Strings.pdb
+D:\Csharp\1\lab5\Strings\obj\Debug\2_3_message.csprojAssemblyReference.cache
+D:\Csharp\1\lab5\Strings\obj\Debug\2_3_message.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab5\Strings\obj\Debug\Strings.exe
+D:\Csharp\1\lab5\Strings\obj\Debug\Strings.pdb
