@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\CSharp 1\lab6\Collections\bin\Debug\Collections.exe.config
+D:\Study\GeekBrains\CSharp 1\lab6\Collections\bin\Debug\Collections.exe
+D:\Study\GeekBrains\CSharp 1\lab6\Collections\bin\Debug\Collections.pdb
+D:\Study\GeekBrains\CSharp 1\lab6\Collections\obj\Debug\3_collections.csprojAssemblyReference.cache
+D:\Study\GeekBrains\CSharp 1\lab6\Collections\obj\Debug\3_collections.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\CSharp 1\lab6\Collections\obj\Debug\Collections.exe
+D:\Study\GeekBrains\CSharp 1\lab6\Collections\obj\Debug\Collections.pdb

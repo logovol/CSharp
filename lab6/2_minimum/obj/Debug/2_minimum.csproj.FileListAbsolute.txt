@@ -1,0 +1,7 @@
+D:\Csharp\1\lab6\2_minimum\bin\Debug\2_minimum.exe.config
+D:\Csharp\1\lab6\2_minimum\bin\Debug\2_minimum.exe
+D:\Csharp\1\lab6\2_minimum\bin\Debug\2_minimum.pdb
+D:\Csharp\1\lab6\2_minimum\obj\Debug\2_minimum.csprojAssemblyReference.cache
+D:\Csharp\1\lab6\2_minimum\obj\Debug\2_minimum.csproj.CoreCompileInputs.cache
+D:\Csharp\1\lab6\2_minimum\obj\Debug\2_minimum.exe
+D:\Csharp\1\lab6\2_minimum\obj\Debug\2_minimum.pdb

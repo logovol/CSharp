@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\CSharp 1\lab6\ReadFile\bin\Debug\ReadFile.exe.config
+D:\Study\GeekBrains\CSharp 1\lab6\ReadFile\bin\Debug\ReadFile.exe
+D:\Study\GeekBrains\CSharp 1\lab6\ReadFile\bin\Debug\ReadFile.pdb
+D:\Study\GeekBrains\CSharp 1\lab6\ReadFile\obj\Debug\6_ReadFile.csprojAssemblyReference.cache
+D:\Study\GeekBrains\CSharp 1\lab6\ReadFile\obj\Debug\6_ReadFile.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\CSharp 1\lab6\ReadFile\obj\Debug\ReadFile.exe
+D:\Study\GeekBrains\CSharp 1\lab6\ReadFile\obj\Debug\ReadFile.pdb
