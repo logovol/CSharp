@@ -1,0 +1,11 @@
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\Guess\bin\Debug\Guess.exe.config
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\Guess\bin\Debug\Guess.exe
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\Guess\bin\Debug\Guess.pdb
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\Guess\obj\Debug\Guess.Properties.Resources.resources
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\Guess\obj\Debug\Guess.csproj.GenerateResource.cache
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\Guess\obj\Debug\Guess.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\Guess\obj\Debug\Guess.exe
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\Guess\obj\Debug\Guess.pdb
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\Guess\obj\Debug\Guess.csprojAssemblyReference.cache
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\Guess\obj\Debug\Guess.Form1.resources
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\Guess\obj\Debug\Guess.Form2.resources

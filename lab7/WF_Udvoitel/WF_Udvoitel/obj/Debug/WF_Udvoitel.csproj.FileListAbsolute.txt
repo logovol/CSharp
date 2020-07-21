@@ -1,0 +1,10 @@
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe.config
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\WF_Udvoitel\bin\Debug\WF_Udvoitel.pdb
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\WF_Udvoitel\obj\Debug\WF_Udvoitel.csprojAssemblyReference.cache
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\WF_Udvoitel\obj\Debug\WF_Udvoitel.Form1.resources
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\WF_Udvoitel\obj\Debug\WF_Udvoitel.Properties.Resources.resources
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.GenerateResource.cache
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\WF_Udvoitel\obj\Debug\WF_Udvoitel.exe
+D:\Study\GeekBrains\CSharp 1\lab7\WF_Udvoitel\WF_Udvoitel\obj\Debug\WF_Udvoitel.pdb
