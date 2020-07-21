@@ -38,9 +38,9 @@ namespace Guess
                         lblResult.Text = "Недолет";
                     }
                     else
-                    {
-                        this.Hide();
+                    {                        
                         main.answer = "Победа";
+                        this.Close();
                         main.Show();                        
                     }
                 }
