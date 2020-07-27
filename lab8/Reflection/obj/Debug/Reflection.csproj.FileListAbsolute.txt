@@ -1,0 +1,22 @@
+C:\Users\logov\source\repos\lab8\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\logov\source\repos\lab8\Reflection\bin\Debug\Reflection.exe
+C:\Users\logov\source\repos\lab8\Reflection\bin\Debug\Reflection.pdb
+C:\Users\logov\source\repos\lab8\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\logov\source\repos\lab8\Reflection\obj\Debug\Reflection.Form1.resources
+C:\Users\logov\source\repos\lab8\Reflection\obj\Debug\Reflection.Properties.Resources.resources
+C:\Users\logov\source\repos\lab8\Reflection\obj\Debug\Reflection.csproj.GenerateResource.cache
+C:\Users\logov\source\repos\lab8\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\logov\source\repos\lab8\Reflection\obj\Debug\Reflection.exe
+C:\Users\logov\source\repos\lab8\Reflection\obj\Debug\Reflection.pdb
+C:\Users\logov\source\repos\lab8\Reflection\obj\Debug\Reflection.FormGame.resources
+D:\Study\GeekBrains\CSharp 1\lab8\Reflection\bin\Debug\Reflection.exe.config
+D:\Study\GeekBrains\CSharp 1\lab8\Reflection\bin\Debug\Reflection.exe
+D:\Study\GeekBrains\CSharp 1\lab8\Reflection\bin\Debug\Reflection.pdb
+D:\Study\GeekBrains\CSharp 1\lab8\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+D:\Study\GeekBrains\CSharp 1\lab8\Reflection\obj\Debug\Reflection.Form1.resources
+D:\Study\GeekBrains\CSharp 1\lab8\Reflection\obj\Debug\Reflection.FormGame.resources
+D:\Study\GeekBrains\CSharp 1\lab8\Reflection\obj\Debug\Reflection.Properties.Resources.resources
+D:\Study\GeekBrains\CSharp 1\lab8\Reflection\obj\Debug\Reflection.csproj.GenerateResource.cache
+D:\Study\GeekBrains\CSharp 1\lab8\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\CSharp 1\lab8\Reflection\obj\Debug\Reflection.exe
+D:\Study\GeekBrains\CSharp 1\lab8\Reflection\obj\Debug\Reflection.pdb
